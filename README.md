@@ -5,6 +5,7 @@
 Iniciando uma nova trajetória!
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="70" height="70"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70" height="70"/>
 
 <br>
@@ -28,7 +29,10 @@ Atividades e Resultados: [clique aqui](link)
   * Parágrafo e Quebra de linha;
   * Linha horizontal;
 
-  ## Aula 002
+### Aula 002
+- [x] Parágrafo e quebra de linhas
+- [x] Símbolos
+- [x] Emojis
 
-- 
+
 

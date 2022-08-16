@@ -70,4 +70,7 @@ Podemos escrever o código em vários formatos: pulando linha, com muitos espaç
 
 Resultado:
 
+![image](https://user-images.githubusercontent.com/108991648/184971011-1719f53b-5287-4571-a787-d46ec55c92d4.png)
+
+<hr>
 
