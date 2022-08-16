@@ -1,3 +1,12 @@
+# html_css
+
+Comandos em Html: [Clique Aqui](https://github.com/PamelaRondina/step-by-step/blob/main/html/comandos_html.md)
+
+<hr>
+
+## Atividade: 001
+
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -22,7 +31,13 @@
         <h2>Subtítulo</h2>
         <hr>
 
-
     </body>
 
 </html>
+```
+
+![image](https://user-images.githubusercontent.com/108991648/184901292-35193ba8-19b1-49bb-bc7e-af421cbff984.png)
+
+<hr>
+
+
