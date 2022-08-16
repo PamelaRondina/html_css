@@ -6,6 +6,8 @@ Comandos em Html: [Clique Aqui](https://github.com/PamelaRondina/step-by-step/bl
 
 ## Atividade: 001
 
+Introdução ao Html, aprendendo sobre tags (abertura e fechamento)
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -68,4 +70,4 @@ Podemos escrever o código em vários formatos: pulando linha, com muitos espaç
 
 Resultado:
 
-![image](https://user-images.githubusercontent.com/108991648/184962327-bf9adc2a-6a47-461b-af23-62c420ed9fe4.png)
+
