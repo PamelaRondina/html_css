@@ -20,11 +20,11 @@ Comandos em Html: [Clique Aqui](https://github.com/PamelaRondina/step-by-step/bl
         <h1>Olá, Mundo!</h1>
         <hr>
         <p>Vamos aprender sobre tags em Html!</p>
-        <p> < h1 >: Título, possui tag de fechamento < /h1 ></p>
-        <p>< p >: Parágrafo, possui tag de fechamento < /p ></p>
-        <p> < h2 >: Subtítulo, possui tag de fechamento < /h2 ></p>
-        <p>< hr >: Linha horizontal</p>
-        <p>< br >: Pula linha</p>
+        <p> &lt;h1&gt;: Título, possui tag de fechamento &lt;/h1&gt;</p>
+        <p>&lt;p&gt;: Parágrafo, possui tag de fechamento &lt;/p&gt;</p>
+        <p> &lt;h2&gt;: Subtítulo, possui tag de fechamento &lt;/h2&gt;</p>
+        <p>&lt;hr&gt;: Linha horizontal</p>
+        <p>&lt;br&gt;: Pula linha</p>
        <hr>
         <h1>Título </h1>
         <p>Parágrafo</p>
@@ -40,4 +40,32 @@ Comandos em Html: [Clique Aqui](https://github.com/PamelaRondina/step-by-step/bl
 
 <hr>
 
+## Atividade 002
 
+Podemos escrever o código em vários formatos: pulando linha, com muitos espaçamentos; a leitura não será feita! O Html é lido por marcações, para que seja feito uma quebra de linha, necessitamos utilizar o < br >
+
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 002 - Html e CSS</title>
+</head>
+<body>
+    <h1> Parágrafo e quebras e linhas</h1>
+    <hr>
+    <p>Podemos escrever o código em vários formatos:
+         pulando linha, 
+         com muitos espaçamentos;
+          a leitura não será feita! <br><br>
+           Aqui, incluímos a marcação &lt;br&gt;.  Html é lido por marcações, 
+           para que seja feito uma quebra de linha, necessitamos utilizar o &lt;br&gt;.</p>
+    </body>
+</html>
+```
+
+Resultado:
+
+![image](https://user-images.githubusercontent.com/108991648/184962327-bf9adc2a-6a47-461b-af23-62c420ed9fe4.png)
