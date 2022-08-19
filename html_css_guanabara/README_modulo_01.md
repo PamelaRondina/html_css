@@ -4,7 +4,7 @@ Comandos em Html: [Clique Aqui](https://github.com/PamelaRondina/step-by-step/bl
 
 <hr>
 
-## Atividade: 001
+## Aula 001
 
 Introdução ao Html, aprendendo sobre tags (abertura e fechamento)
 
@@ -42,7 +42,7 @@ Introdução ao Html, aprendendo sobre tags (abertura e fechamento)
 
 <hr>
 
-## Atividade 002
+## Aula 002
 
 Podemos escrever o código em vários formatos: pulando linha, com muitos espaçamentos; a leitura não será feita! O Html é lido por marcações, para que seja feito uma quebra de linha, necessitamos utilizar o < br >
 
@@ -72,5 +72,35 @@ Resultado:
 
 ![image](https://user-images.githubusercontent.com/108991648/184971011-1719f53b-5287-4571-a787-d46ec55c92d4.png)
 
+Para incluirmos emoji: &#x+número do emoji
+
+O número do emoji pode ser encontrado pelo site [emojipedia](https://www.emojipedia.org/openmoji/)
+
+- [x] Entre no site e escolha um emoji;
+- [x] Role o mouse até localizar o "Codepoint": U+código
+- [x] `&#x1F970;` No HTML insira: &#x + CódigoEmoji + ; 
+
 <hr>
+
+## Aula 003
+
+- [x] Assunto importante, direito das imagens! Sites disponíveis;
+- [x] Software Gimp (programa gratuito para edição de imagens)
+
+Nome | Link
+:-|:-
+Pexels|https://www.pexels.com/pt-br/procurar/cachorro/
+Unplash|https://unsplash.com/
+Freepik|https://br.freepik.com/
+Rawpixel|https://www.rawpixel.com/
+Pixabay|https://pixabay.com/pt/
+LibreShot|https://libreshot.com/
+
+
+##
+##
+##
+##
+##
+##
 

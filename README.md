@@ -34,5 +34,10 @@ Atividades e Resultados: [clique aqui](https://github.com/PamelaRondina/html_css
 - [x] Símbolos
 - [x] Emojis
 
+### Aula 003
+
+- [x] Direito das imagens
+- [x] Sites com imagens disponíveis para uso
+- [x] Software Gimp (programa gratuito para edição de imagens)
 
 
