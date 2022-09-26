@@ -96,6 +96,10 @@ Rawpixel|https://www.rawpixel.com/
 Pixabay|https://pixabay.com/pt/
 LibreShot|https://libreshot.com/
 
+<hr>
+
+
+
 
 ##
 ##
