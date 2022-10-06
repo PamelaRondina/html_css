@@ -1,6 +1,6 @@
 # html_css
 
-Comandos em Html: [Clique Aqui](https://github.com/PamelaRondina/step-by-step/blob/main/html/comandos_html.md)
+Comandos em Html: [Clique Aqui](https://github.com/PamelaRondina/step-by-step/tree/main/html)
 
 <hr>
 
