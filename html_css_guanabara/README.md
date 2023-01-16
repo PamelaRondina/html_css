@@ -39,4 +39,10 @@ Atividades e Resultados: [clique aqui](https://github.com/PamelaRondina/html_css
 - [x] Sites com imagens disponíveis para uso
 - [x] Software Gimp (programa gratuito para edição de imagens)
 
+### [Aula 004](INCLUIR LINK)
+
+- [x] Dimensionar imagems pelo GIMP
+- [x] Incluir imagem de um diretório local e URL
+
+
 

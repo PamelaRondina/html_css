@@ -98,7 +98,17 @@ LibreShot|https://libreshot.com/
 
 <hr>
 
+## Aula 004
 
+- [x] Software Gimp (programa gratuito para edição de imagens)
+
+ * Utilizar a ferramenta de corte para identificar o tamanho que deseja da imagem 
+* Diminuir a largura do arquivo: imagem > Redimensionar 
+
+
+Adicionando imagem
+    - De um diretório local
+    - De uma imagem da internet 
 
 
 ##
