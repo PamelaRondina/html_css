@@ -39,10 +39,14 @@ Atividades e Resultados: [clique aqui](https://github.com/PamelaRondina/html_css
 - [x] Sites com imagens disponíveis para uso
 - [x] Software Gimp (programa gratuito para edição de imagens)
 
-### [Aula 004](INCLUIR LINK)
+### [Aula 004](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01/exercicios/004)
 
 - [x] Dimensionar imagems pelo GIMP
 - [x] Incluir imagem de um diretório local e URL
+
+### [Aula 005](LINK)
+
+- [x] Adicionar Favicon
 
 
 

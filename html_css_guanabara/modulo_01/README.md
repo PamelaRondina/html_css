@@ -110,6 +110,37 @@ Adicionando imagem
     - De um diretório local
     - De uma imagem da internet 
 
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Inserir imagem</title>
+    </head>
+
+    <body>
+        <h2>Imagem de um diretório local</h2>
+        <br>
+        <img src="logo-html150.png" alt="Html do diretório">
+
+        <h2>Imagem da uma URL</h2>
+        <img src="https://cdn.pixabay.com/photo/2016/11/19/23/00/css3-1841590_960_720.png" alt="Imagem de uma URL">
+    </body>
+    </html>
+```
+
+<hr>
+
+## Aula 005
+
+- [x] Inserir Favicon
+
+
+
+
+
 
 ##
 ##
