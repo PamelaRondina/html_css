@@ -48,9 +48,10 @@ Atividades e Resultados: [clique aqui](https://github.com/PamelaRondina/html_css
 
 - [x] Adicionar Favicon
 
-### [Aula 006](LINK)
+### [Aula 006](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#aula-006)
 
 - [x] Hierarquia de títulos
 
-### [Aula 007](LINK)
+### [Aula 007](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#aula-007)
 
+- [x] 
