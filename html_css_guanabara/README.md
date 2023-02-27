@@ -55,3 +55,19 @@ Atividades e Resultados: [clique aqui](https://github.com/PamelaRondina/html_css
 ### [Aula 007](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#aula-007)
 
 - [x] 
+
+### [Aula 008](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#aula-008)
+
+- [x] 
+
+### [Aula 009](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#aula-009)
+
+- [x] 
+
+### [Aula 010](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#aula-010)
+
+- [x] 
+
+### [Aula 011](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#aula-011)
+
+- [x] 
