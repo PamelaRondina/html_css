@@ -192,7 +192,13 @@ Adicionando imagem
 
 ## Aula 007
 
-- [x] 
+- [x] Formatações:
+  - Negrito
+  - Itálico
+  - Marca texto
+  - Texto grande e pequeno
+  - Texto sublinhado
+  - Texto sobrescrito e subscrito
 
 ```html
 <!DOCTYPE html>
@@ -243,13 +249,55 @@ ___________________
 
 ## Aula 008
 
-- [x] 
+- [x] Texto como código - monoespaçado
+- [x] Citação Simples
+- [x] Citações Completas
+- [x] Abreviações
+- [x] Texto invertido
 
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Outras formatações</title>
+</head>
+<body>
+    <h1>Formatação por código</h1>
+    <pre><code>
+num = int(input('Digite um número'))
+    </code></pre>
+
+<h2>Citações simples</h2>
+<p>Como diria o pai de um amigo: <q>o computador é um burro muito rápido</q></p>
+    
+<h2>Citações completas</h2>
+<p>Segundo Jeff Noble, no seu livro HTML para Leigos:</p>
+<blockquote cite="site">
+    A diferença entre elementos inline e um bloco de texto é importante. Os elementos HTML neste capítulo descrevem os blocos de texto
+</blockquote>
+<h2>Abreviações</h2>
+<p>Estou estudando <abbr title="HyperText Markup Language">HTML</abbr> e <abbr title="Cascate Style Sheets ">CSS</abbr>.</p>
+<h2>Texto invertido</h2>
+<p><bdo dir="rtl">Texto invertido</bdo></p>
+</body>
+</html>
+```
+
+![image](https://user-images.githubusercontent.com/108991648/221666334-6fc07573-c019-43cf-83be-5b6412197a58.png)
 _______________
 
 ## Aula 009
 
-- [x] 
+- [x] Listas Ordenadas 
+- [x] Listas não ordenadas 
+- [x] Listas de definição
+
+```html
+
+```
 
 _______________
 
@@ -257,12 +305,18 @@ _______________
 
 - [x] 
 
+```html
+
+```
 _______________
 
 ## Aula 011
 
 - [x] 
 
+```html
+
+```
 _______________
 
 
