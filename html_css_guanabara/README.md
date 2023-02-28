@@ -72,7 +72,9 @@ Atividades e Resultados: [clique aqui](https://github.com/PamelaRondina/html_css
 
 ### [Aula 009](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#aula-009)
 
-- [x] 
+- [x] Listas Ordenadas 
+- [x] Listas não ordenadas 
+- [x] Listas de definição
 
 ### [Aula 010](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#aula-010)
 
