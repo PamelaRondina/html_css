@@ -54,15 +54,27 @@ Atividades e Resultados: [clique aqui](https://github.com/PamelaRondina/html_css
 
 ### [Aula 007](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#aula-007)
 
-- [x] 
+- [x] Formatações:
+  - Negrito
+  - Itálico
+  - Marca texto
+  - Texto grande e pequeno
+  - Texto sublinhado
+  - Texto sobrescrito e subscrito
 
 ### [Aula 008](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#aula-008)
 
-- [x] 
+- [x] Texto como código - monoespaçado
+- [x] Citação Simples
+- [x] Citações Completas
+- [x] Abreviações
+- [x] Texto invertido
 
 ### [Aula 009](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#aula-009)
 
-- [x] 
+- [x] Listas Ordenadas 
+- [x] Listas não ordenadas 
+- [x] Listas de definição
 
 ### [Aula 010](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#aula-010)
 
