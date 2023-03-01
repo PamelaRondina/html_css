@@ -2,6 +2,7 @@
 # Curso em Vídeo: HTML5 e CSS3
 
 
+
 Iniciando uma nova trajetória em HTML e CSS.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="70" height="70"/>
@@ -78,7 +79,9 @@ Atividades e Resultados: [clique aqui](https://github.com/PamelaRondina/html_css
 
 ### [Aula 010](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#aula-010)
 
-- [x] 
+- [x] Links externo
+- [x] Links internos
+- [x] Links Downloads
 
 ### [Aula 011](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#aula-011)
 
