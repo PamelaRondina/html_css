@@ -296,14 +296,74 @@ _______________
 - [x] Listas de definição
 
 ```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listas</title>
+</head>
 
+<body>
+    <h1>Trabalhando com Listas</h1>
+
+    <h2>Listas ordenadas</h2>
+
+    <ol type="a" start="4"> 
+        <li>Acordar
+        <li>Levantar
+        <li>Escovar os dentes
+        <li><code>1 A a I i </code>    
+    </ol>
+
+    <h2>Lista não ordenada</h2>
+    <code>circle  |  disc  | square </code>  
+
+    <ol>
+        <li type="1">Círculo aberto
+        <ul type="circle">
+            <li>Pão
+            <li>Leite
+            <li>Café    
+        </ul>
+        <br>
+
+        <li>Círculo fechado
+        <ul type="disc">
+            <li> Manteiga
+            <li> Azeite
+            <li> Queijo
+        </ul>
+        <br>
+
+        <li> Quadrado
+        <ul type="square">
+            <li> Água
+            <li> Bolo
+            <li> Sucrilhos
+        </ul>
+    </ol>
+
+    <h2>Lista de Definições </h2>
+    <dl>
+        <dt>HTML</dt>
+        <dd>LInguagem de marcação para a criação do conteúdo de um site</dd>
+        <dt>CSS</dt>
+        <dd>LInguagem de marcação para a criação do desing de um site</dd>
+        <dt>JavaScript</dt>
+        <dd>Linguagem de programação para a criação de interatividade de um site</dd>
+    </dl>
+</body>
+</html>
 ```
 
+![image](https://user-images.githubusercontent.com/108991648/221883786-52c7052d-68fc-46bc-b462-57ffe38f7be3.png)
 _______________
 
 ## Aula 010
 
-- [x] 
+- [x] Links
 
 ```html
 
