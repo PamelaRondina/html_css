@@ -1,8 +1,9 @@
 # html_css
 
-Comandos em Html: [Clique Aqui](https://github.com/PamelaRondina/step-by-step/tree/main/html)
 
-<hr>
+- [x] Exercícios ([001 até 011](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#aula-001))
+- [x] Desafios ([d001 até d009](LINK))
+- [x] [Comandos em Html](https://github.com/PamelaRondina/step-by-step/tree/main/html)
 
 ## Aula 001
 
