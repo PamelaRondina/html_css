@@ -462,13 +462,159 @@ _______________
 ```
 _______________
 
+## Desafio d001
+
+Desafio das Mensagens
+
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">     
+
+    <title>Desafio 001</title>
+</head>
+<body>
+    <h1>Desafio das Mensagens</h1>
+    <p>*Um</p>
+    <p>**Dois</p>
+    <p>***Três</p>
+    <p>****Quatro</p>
+    <br>
+    <p>****Quatro</p>
+    <p>***Três</p>
+    <p>**Dois</p>
+    <p>*Um</p>
+    
+</body>
+</html>
+```
+
+![image](https://user-images.githubusercontent.com/108991648/222445916-cb7743bb-2244-49f4-a256-ba8bdc888861.png)
+________________
+
+## Desafio d002
+
+Desafio das Imagens
 
 
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-##
-##
-##
-##
-##
-##
+    <link rel="shortcut icon" href="imagens/favicon.ico" type="image/x-icon">
+
+    <title>Desafio 002</title>
+
+    <h1>Desafio das Imagens</h1>
+    <p>Inserir imagens em HTML é muito simples, tanto no conteúdo quanto lá em cima, como ícone de favoritos!</p>
+
+    <img src="imagens/github-m.png" alt="Imagem Guanabara GitHub">
+    
+</head>
+<body>
+    
+</body>
+</html>
+```
+
+![image](https://user-images.githubusercontent.com/108991648/222448946-8236ceb4-3313-41ac-9c74-2ed082f3f2b1.png)
+
+________________
+
+## Desafio d003
+
+Desafio do Mapa
+
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio 003</title>
+</head>
+<body>
+    <h1>Desafio do Mapa</h1>
+    <p>Agora chegou a hora de treinar um pouco o uso de imagens, parágrafos <br>e quebras de linhas.</p>
+    <img src="imagens/01.png" alt="imagem 01">
+    <img src="imagens/02.png" alt="imagem 02">
+    <img src="imagens/03.png" alt="imagem 03">
+    <br>
+    <img src="imagens/04.png" alt="imagem 04">
+    <img src="imagens/05.png" alt="imagem 05">
+    <img src="imagens/06.png" alt="imagem 06">
+    <br>
+    <img src="imagens/07.png" alt="imagem 07">
+    <img src="imagens/08.png" alt="imagem 08">
+    <img src="imagens/09.png" alt="imagem 09">
+    
+
+
+    
+</body>
+</html>
+```
+![image](https://user-images.githubusercontent.com/108991648/222509322-adc917f4-2023-4eef-aeee-69f0c35b2415.png)
+
+
+________________
+## Desafio d004
+
+Meus emojis favoritos
+
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio 004</title>
+</head>
+<body>
+    <h1>Meus emojis favoritos</h1>
+
+    <ol type="A">
+        <li><h2>Carinhas</h2>
+            <ul type="square">
+                <li>&#x1F601 U+1F601                
+            </ul>
+                        
+        <li><h2>Animais</h2>
+            <ul type="circle">
+                <li>&#x1F436 U+1F436
+            </ul>
+
+        <li><h2>Especiais</h2>
+            <ul type="disc">
+                <li>&#x1F680 U+1F680
+            </ul>
+    </ol>
+    
+</body>
+</html>
+```
+
+![image](https://user-images.githubusercontent.com/108991648/222515170-84831d3e-fb36-46d9-b18c-c66383f5f958.png)
+
+
+________________
+## Desafio d005
+```html
+
+```
+________________
+## Desafio d006
+```html
+
+```
+________________
 

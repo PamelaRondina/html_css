@@ -21,6 +21,8 @@ Comandos em HTML: [clique Aqui](https://github.com/PamelaRondina/step-by-step/tr
 ## Módulo 01 - HTML5 e CSS3
 Atividades e Resultados: [clique aqui](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01)
 
+## Exercícios
+
 ### [Aula 001](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01/001) 
 
 - [x] Aprendendo sobre tags em HTML
@@ -86,3 +88,18 @@ Atividades e Resultados: [clique aqui](https://github.com/PamelaRondina/html_css
 ### [Aula 011](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#aula-011)
 
 - [x] 
+
+_______________________________
+
+
+## Desafios
+
+### Desafio d001
+### Desafio d002
+### Desafio d003
+### Desafio d004
+### Desafio d005
+### Desafio d006
+### Desafio d007
+### Desafio d008
+### Desafio d009
