@@ -363,11 +363,93 @@ _______________
 
 ## Aula 010
 
-- [x] Links
+- [x] Links externo
+- [x] Links internos´
+- [x] Links downloads
+
+**Página principal**
 
 ```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trabalhando com Links</title>
+</head>
 
+<body>
+    <h1>Usando Links</h1>
+    <ol>
+    <li><h2>Links Externos</h2>
+    <p>Você pode acessar o meu <a href="https://github.com/PamelaRondina"></a> repositório público no Github por um link externo</p> 
+    
+    <li><h2>Links Internos - criar outras páginas</h2>    
+    <p>Acesse a <a href="pag002.html" rel="next" target="_self">página 002.</a></p>
+
+    <p>Acesse a <a href="noticias/pag003.html" rel="next" target="_self">página 003 (pasta criada)</a></p>
+
+    <li><h2>Link para Download</h2>
+    <p>Baixe o arquivo em <a href="localarquivo" download="nomedoarquivo" type="aplicattion/pdf" >PDF</a></p>
+    <p>Baixe o arquivo em <a href="localarquivo" download="nomedoarquivo" type="application/zip">ZIP</a></p>
+    
+</ol>
+</body>
+</html>
 ```
+
+**Página 002**
+
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página 002</title>
+</head>
+<body>
+    <h1>Segunda página do meu site</h1>
+    <p>Testando a segunda página</p>
+    <p><a href="index.html" rel="prev">Voltar</a></p>
+</body>
+</html>
+```
+
+**Página 003**
+
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terceira Página</title>
+</head>
+<body>
+    <h1>Terceira página</h1>
+    <p>Testando página 003</p>
+    <p><a href="../index.html" rel="prev">Voltar</a></p>
+    
+</body>
+</html>
+```
+
+**Página principal**
+
+![image](https://user-images.githubusercontent.com/108991648/222224564-3a41a9fc-65d9-4f94-a983-8d3a6eac9893.png)
+
+**Página 002**
+
+![image](https://user-images.githubusercontent.com/108991648/222224842-abe6c31b-5d8f-464d-856a-58c0271410ae.png)
+
+**Página 003**
+
+![image](https://user-images.githubusercontent.com/108991648/222224989-4ddc9f25-8927-4006-a3b6-c48ca0ed089b.png)
+
 _______________
 
 ## Aula 011
