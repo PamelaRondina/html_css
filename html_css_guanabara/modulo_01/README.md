@@ -2,7 +2,7 @@
 
 
 - [x] Exercícios ([001 até 011](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#aula-001))
-- [x] Desafios ([d001 até d009](LINK))
+- [x] Desafios ([d001 até d009](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#desafio-d001))
 - [x] [Comandos em Html](https://github.com/PamelaRondina/step-by-step/tree/main/html)
 
 ## Aula 001
@@ -555,8 +555,6 @@ Desafio do Mapa
     <img src="imagens/07.png" alt="imagem 07">
     <img src="imagens/08.png" alt="imagem 08">
     <img src="imagens/09.png" alt="imagem 09">
-    
-
 
     
 </body>
@@ -608,9 +606,40 @@ Meus emojis favoritos
 
 ________________
 ## Desafio d005
-```html
 
+Minhas redes sociais
+
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Desafio 005</title>
+</head>
+<body>
+    <h1>Minhas redes sociais</h1>
+    <h2>Quem somos?</h2>
+    <img src="Imagens/logo.jpg" alt="logo">
+    <p>Somos a "Arca de Nóis É!", um canal criado por um casal na área de TI descobrindo e aprendendo novos hobbies. 
+        <ol>Por aqui, vocês vão encontrar:
+            <li> Fase 1: Brinquedos de Madeira, teclado e violino.</p>
+    </ol>
+    <h2>Nos acompanhem por...</h2>
+    <ul type="square">      
+        <li><img src="Imagens/youtube-logo-24.png" alt="icon-youtube"> <a href="https://www.youtube.com/@aarcadenoise" target="_blank" rel="external" >/aarcadenoise</a> - Se inscreve lá no canal no Youtube
+        <li><img src="Imagens/instagram-alt-logo-24.png" alt="icon-instagram"> <a href="https://www.instagram.com/aarcadenoise/" target="_blank" rel="external">/aarcadenoise</a> - Segue lá no Instagram
+        <li><img src="Imagens/tiktok-logo-24.png" alt="icon-tiktok"> <a href="https://www.tiktok.com/@aarcadenoise" target="_blank" rel="external">/aarcadenoise</a> - Segue lá no TikTok     
+    </ul>
+      
+</body>
+</html>
 ```
+
+![image](https://user-images.githubusercontent.com/108991648/222741619-5930270d-9ccc-4606-9bea-6f6b7031a62e.png)
+
 ________________
 ## Desafio d006
 ```html

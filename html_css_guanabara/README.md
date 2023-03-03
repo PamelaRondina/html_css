@@ -94,12 +94,46 @@ _______________________________
 
 ## Desafios
 
-### Desafio d001
-### Desafio d002
-### Desafio d003
-### Desafio d004
-### Desafio d005
-### Desafio d006
-### Desafio d007
-### Desafio d008
-### Desafio d009
+### [Desafio d001](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#desafio-d001)
+
+- [x] Desafio da Mensagem
+
+![image](https://user-images.githubusercontent.com/108991648/222445916-cb7743bb-2244-49f4-a256-ba8bdc888861.png)
+
+### [Desafio d002](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#desafio-d002)
+
+- [x] Desafio das Imagens
+
+![image](https://user-images.githubusercontent.com/108991648/222448946-8236ceb4-3313-41ac-9c74-2ed082f3f2b1.png)
+
+### [Desafio d003](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#desafio-d003)
+
+- [x] Desafio do Mapa
+
+![image](https://user-images.githubusercontent.com/108991648/222509322-adc917f4-2023-4eef-aeee-69f0c35b2415.png)
+
+### [Desafio d004](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#desafio-d004)
+
+- [x] Meus emojis favoritos
+
+![image](https://user-images.githubusercontent.com/108991648/222515170-84831d3e-fb36-46d9-b18c-c66383f5f958.png)
+
+
+### [Desafio d005](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#desafio-d005)
+
+- [x] Minhas redes sociais
+
+![image](https://user-images.githubusercontent.com/108991648/222741619-5930270d-9ccc-4606-9bea-6f6b7031a62e.png)
+
+
+### [Desafio d006](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#desafio-d006)
+
+
+### [Desafio d007](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#desafio-d007)
+
+
+### [Desafio d008](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#desafio-d008)
+
+
+### [Desafio d009](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#desafio-d009)
+
