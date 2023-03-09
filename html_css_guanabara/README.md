@@ -87,7 +87,13 @@ Atividades e Resultados: [clique aqui](https://github.com/PamelaRondina/html_css
 
 ### [Aula 011](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#aula-011)
 
-- [x] 
+- [x] Imagens Dinâmicas
+- [x] Elemento Picture
+- [x] Elemento Audio
+
+### [Aula 012](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#aula-012)
+
+- [x] Elemento Vídeo
 
 _______________________________
 
@@ -128,12 +134,19 @@ _______________________________
 
 ### [Desafio d006](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#desafio-d006)
 
+- [x] Tags em HTML
+
+![image](https://user-images.githubusercontent.com/108991648/222769370-e4d756bb-0641-41f8-9db7-a189ad8c32f2.png)
+
 
 ### [Desafio d007](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#desafio-d007)
 
+- [x]
 
 ### [Desafio d008](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#desafio-d008)
 
+- [x]
 
 ### [Desafio d009](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#desafio-d009)
 
+- [x]

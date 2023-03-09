@@ -455,11 +455,84 @@ _______________
 
 ## Aula 011
 
+- [x] Imagens Dinâmicas
+- [x] Elemento Picture
+- [x] Elemento Audio
+
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mídias em HTML5</title>
+</head>
+<body>
+    <h1>Imagem dinâmica</h1>
+    <p>Tente abrir esse site em vários dispositivos diferentes ou simplesmente aumente e diminua o tamanho do seu navegador</p>
+
+    <picture>
+        <source media="(max-width: 750px)" srcset="imagens/foto-p.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="imagens/foto-m.png" type="image/png">
+        <img src="imagens/foto-g.png" alt="Imagem G">
+    </picture>
+
+    <h1>Reproduzir áudio HTML5</h1>
+
+    <audio src="midia/Bluesy Vibes (Sting) - Doug Maxwell_Media Right Productions.mp3" controls autoplay loop></audio>
+    </audio>    
+    
+</body>
+</html>
+```
+___________
+
+## Aula 012
+
+- [x] Elemento Vídeo
+
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vídeo HTML5</title>
+</head>
+<body>
+    <h1>Inserindo vídeos hospedados localmente</h1>
+    <p>Este vídeo está hospedado em meu computador</p>
+
+    <video class autoplay loop width="500" poster="images/foto-m.png" controls >
+        <source  src="midia/video-mario.mp4" type="video/mp4">
+    </video>
+
+    <h1>Inserindo vídeos do Youtube</h1>
+    <p>Buscar o iframe do Youtube</p>
+    <iframe id="video" width="560" height="560" src="https://www.youtube.com/embed/Cb4WV4aXBpk" title="Trailer oficial" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</body>
+</html>
+```
+_______________
+
+## Aula 013
+
 - [x] 
 
 ```html
+````
 
-```
+_______________
+
+## Aula 014
+
+- [x] 
+
+```html
+````
 _______________
 
 ## Desafio d001
@@ -642,8 +715,60 @@ Minhas redes sociais
 
 ________________
 ## Desafio d006
+
+- [x] Tags em HTML
+
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio 006</title>
+</head>
+<body>
+    <h1>Tags em HTML</h1>
+    <p>Em HTML5, podemos inserir os elementos da lista a seguir. Passe o mouse<br>
+    sobre os termos para descobrir qual tag deverá utilizar em cada caso.</p>
+    <ul type="square">
+        <li><abbr title="<p>">Parágrafo</abbr>
+        <li><abbr title="<h1> <h2> <h3> <h4> <h5> <h6>">Títulos</abbr>
+        <li><abbr title="<img>">Imagens</abbr>
+        <li><abbr title="<abbr>">Abreviações</abbr>
+        <li><abbr title="<hr>">Linha horizontal</abbr>
+        <li><abbr title="<br>">Pular linha</abbr>
+        <li><abbr title="<ol>">Listas numeradas</abbr>
+        <li><abbr title="<ul>">Listas com demarcadores</abbr>
+    </ul>
+</body>
+</html>
+```
+________________
+
+## Desafio d007
+
+- [x] 
+
 ```html
 
 ```
 ________________
 
+## Desafio d008
+
+- [x] 
+
+```html
+
+```
+________________
+
+## Desafio d009
+
+- [x] 
+
+```html
+
+```
+________________
