@@ -2,7 +2,12 @@
 
 
 - [x] Exercícios ([001 até 011](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#aula-001))
+- [x] Exercícios ()
+<br>
+
 - [x] Desafios ([d001 até d009](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#desafio-d001))
+<br>
+
 - [x] [Comandos em Html](https://github.com/PamelaRondina/step-by-step/tree/main/html)
 
 ## Aula 001
@@ -744,24 +749,157 @@ ________________
 </body>
 </html>
 ```
+
+![image](https://user-images.githubusercontent.com/108991648/222769370-e4d756bb-0641-41f8-9db7-a189ad8c32f2.png)
 ________________
 
 ## Desafio d007
 
-- [x] 
+- [x] Imagens Flexível
 
 ```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio 007</title>
+</head>
+<body>
+    <h1>Imagem Flexível</h1>
+    <p>Você está vendo a imagem completa? Experimente ampliar o tamanho da sua janela para poder aproveitar a melhor experiência</p>
 
+    <picture>
+        <source media="(max-width: 750px)" srcset="images/foto-p.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="images/foto-m.png" type="image/png">
+        
+        <img src="images/foto-g.png" alt="Imagem G">
+    </picture>
+
+</body>
+</html>
 ```
+
+![image](https://user-images.githubusercontent.com/108991648/224324602-6ce99261-ce1c-4b27-a7a7-ded7ad294280.png)
+
 ________________
 
 ## Desafio d008
 
-- [x] 
+- [x] Criando uma Navegação
+
+**Página Principal - Cinza**
 
 ```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <link rel="shortcut icon" href="images/Google-Noto-Emoji-Travel-Places-42598-rocket.32.png" type="image/x-icon">
+
+    <style>
+        body {
+            background-color: rgb(175, 179, 175);
+        }
+    </style>
+    
+    <title>Navegação - Cinza</title>
+</head>
+<body>
+    <h1>Desafio da Navegação</h1>
+    <p>Esta é a página principal, o ínidice do seu site.<br><br> É a página cinza!<br><br>A partir dela você pode acessar as outras áreas principais através dos links a seguir</p>
+
+    <ul>
+    <li>
+    <a href="pagina_verde.html" rel="next" target="_self"> Acessar a área verde</a>
+    <li>
+    <a href="pagina_amarela.html" rel="next" target="_self">Acessar a área amarela</a>
+    </li>
+
+</ul>
+
+</body>
+</html>
 ```
+
+**Página 2 - Verde**
+
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="shortcut icon" href="images/Google-Noto-Emoji-Travel-Places-42598-rocket.32.png" type="image/x-icon">
+
+    <style>
+        body {
+            background-color: rgba(175, 219, 131, 0.925);
+            color:rgba(58, 78, 38, 0.925);
+        }
+
+       
+    </style>
+
+    <title>Navegação - Verde</title>
+</head>
+<body>
+   
+
+    <h1>Página Verde</h1>
+    <p>Você agora está na área verde<br>
+    Você acessou clicando no primeiro link da página principal</p>
+
+    <ul>
+        <li><a href="pagina_cinza.html" rel="prev">Voltar para a página cinza</a></li>
+    </ul>
+</body>
+</html>
+```
+
+**Página 3 - Amarela**
+
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="shortcut icon" href="images/Google-Noto-Emoji-Travel-Places-42598-rocket.32.png" type="image/x-icon">
+
+    <style>
+        body {
+            background-color: rgb(238, 224, 102);
+            color: darkgoldenrod;
+        }
+    </style>
+
+    <title>Navegação - Amarela</title>
+</head>
+<body>
+    <h1>Página Amarela</h1>
+
+    <p>Você agora está na área amarela.<br>
+    Você acessou clicando no segundo link da página principal</p>
+
+    <ul>
+        <li><a href="pagina_cinza.html" rel="prev">Voltar a página cinza</a></li>
+    </ul>
+    
+</body>
+</html>
+```
+
+![image](https://user-images.githubusercontent.com/108991648/224400393-46516e73-b327-46de-9907-16771004758a.png)
+
 ________________
 
 ## Desafio d009

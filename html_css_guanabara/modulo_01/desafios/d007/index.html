@@ -10,7 +10,12 @@
     <h1>Imagem Flexível</h1>
     <p>Você está vendo a imagem completa? Experimente ampliar o tamanho da sua janela para poder aproveitar a melhor experiência</p>
 
-    <img src="images/foto-g.png" alt="image-G">
-    
+    <picture>
+        <source media="(max-width: 750px)" srcset="images/foto-p.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="images/foto-m.png" type="image/png">
+        
+        <img src="images/foto-g.png" alt="Imagem G">
+    </picture>
+
 </body>
 </html>

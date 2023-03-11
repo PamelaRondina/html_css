@@ -141,11 +141,17 @@ _______________________________
 
 ### [Desafio d007](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#desafio-d007)
 
-- [x]
+- [x] Imagem Flexível
+
+![image](https://user-images.githubusercontent.com/108991648/224324602-6ce99261-ce1c-4b27-a7a7-ded7ad294280.png)
+
 
 ### [Desafio d008](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#desafio-d008)
 
-- [x]
+- [x] Desafio da Navegação
+
+![image](https://user-images.githubusercontent.com/108991648/224400393-46516e73-b327-46de-9907-16771004758a.png)
+
 
 ### [Desafio d009](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#desafio-d009)
 
