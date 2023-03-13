@@ -523,7 +523,7 @@ ___________
 ```
 _______________
 
-## Aula 013
+## Aula 013, 014 e 015
 
 - [x] 
 
@@ -904,9 +904,86 @@ ________________
 
 ## Desafio d009
 
-- [x] 
+- [x] Página principal - 4 thumbs
+- [x] 4 páginas com link para acesso ao vídeo e retorno a página principal
+
+**Página Principal**
 
 ```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <link rel="shortcut icon" href="images/favicon_youtube.png" type="image/x-icon">
+
+    <style>
+        body{
+            background-color: rgb(65, 63, 63);
+            color: white;
+            text-align: center;            
+        }
+    </style>
+    <title>Meus Vídeos</title>  
+</head>
+
+<body>
+    <h1>Vídeos legais para assistir</h1>  
+    <picture>
+        <a href="video_arca.html" rel="next" target="_blank"><img src="images/Thumb - Vídeo Arca.PNG" alt="imagem 'A Arca de Nóis É'" width="250"></a>
+
+        <a href="video_python.html" rel="next" target="_blank"><img src="images/Thumb - Vídeo Python.webp" alt="imagem 'Python'" width="250"></a>
+
+        <br>
+        
+        <a href="video_chaves.html" rel="next" target="_blank"><img src="images/Thumb - Vídeo Chaves.jpg" alt="imagem 'Chaves'" width="250"></a>
+
+        <a href="video_musica.html" rel="next" target="_blank"><img src="images/Thumb - Vídeo Shakira.webp" alt="imagem 'Shakira'" width="250"></a>
+</body>
+</html>
 ```
+
+**Vídeo, acesso ao canal e retorno a  página principal**
+
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+
+    <link rel="shortcut icon" href="images/favicon_youtube.png" type="image/x-icon">
+
+    <style>
+        body {
+            background-color: rgb(65, 63, 63);
+            color: white;
+            font: bold;
+            text-align: center;
+        }     
+    </style>
+
+    <title>A Arca de Nóis É!</title>
+  
+</head>
+
+<body>
+    <h1>A Arca de Nóis É!</h1>   
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/c8fI_UGFuWA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    
+    <p>Veja o canal no <a href="https://www.youtube.com/@aarcadenoise" rel="external" target="_blank" style="color:white">Youtube!</a></p>
+
+    <a href="pagina_principal.html" rel="prev"><img src="images/seta branca.png" alt="seta-retornando" width="60"></a>   
+    
+</body>
+</html>
+```
+
+![image](https://user-images.githubusercontent.com/108991648/224494811-09319c5c-ec29-4261-9336-b8834a634ed5.png)
+
 ________________
+
