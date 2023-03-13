@@ -5,20 +5,37 @@
 
 Iniciando uma nova trajetória em HTML e CSS.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="70" height="70"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="70" height="70" style="text-align: center"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70" height="70" style="text-align: center"/>
 
-<br>
 <hr>
 
-**Instrutor:** Professor Guanabara 
-**Canal Youtube:** [Curso em Vídeo](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
+**Instrutor:** Professor Guanabara <br>
+**Canal Youtube:** [Curso em Vídeo](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)<br>
 **Repositório Github:** [gustavoguanabara](https://github.com/gustavoguanabara/html-css)
 <hr>
 
 Comandos em HTML: [clique Aqui](https://github.com/PamelaRondina/step-by-step/tree/main/html)
+Comandos em CSS: [clique Aqui](https://github.com/PamelaRondina/step-by-step/tree/main/css)
+
+<hr>
+
+- [x] [**Módulo 01 - HTML5 e CSS3**](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara#m%C3%B3dulo-01---html5-e-css3)
+
+- Exercícios: 001 - 015;
+- Desafios: d001 - d009;
+<br>
+
+- [x] [**Módulo 02 - HTML5 e CSS3**](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara#m%C3%B3dulo-01---html5-e-css3)
+
+- Exercícios: 016 - ***;
+- Desafios: d010 - ***;
+
+
+<hr>
 
 ## Módulo 01 - HTML5 e CSS3
+
 Atividades e Resultados: [clique aqui](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01)
 
 ## Exercícios
@@ -167,3 +184,15 @@ _______________________________
 
 ![image](https://user-images.githubusercontent.com/108991648/224494811-09319c5c-ec29-4261-9336-b8834a634ed5.png)
 
+____________
+
+
+## Módulo 02 - HTML5 e CSS3
+
+Atividades e Resultados: [clique aqui](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_02)
+
+## Exercícios
+
+### [Aula 016](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_02/016) 
+
+- [x] ******************
