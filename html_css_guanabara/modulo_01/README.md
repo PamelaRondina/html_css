@@ -525,19 +525,93 @@ _______________
 
 ## Aula 013, 014 e 015
 
-- [x] 
+- [x] CSS in linea
+- [x] CSS no HTML - Estilo Interno
+- [x] Style.css - Estilo Externo
+
+**In Linea**
 
 ```html
-````
+...
+<body style="background-color: aqua;" >
+    <h1 style="color:blue">Capítulo 1</h1>
+    <h2 style="font-family: 'Courier New', Courier, monospace;">Capítulo 1.1</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab totam accusantium libero est dolorum porro velit ipsa modi, eveniet ea aspernatur, accusamus nihil dicta nobis. Similique perferendis unde tempora porro!</p>
+    </body>
+...
+```
 
-_______________
+![image](https://user-images.githubusercontent.com/108991648/224589588-130c68f0-8478-430e-9d9c-19eafcc6f7aa.png)
 
-## Aula 014
-
-- [x] 
+**CSS no HTML - Estilo Interno**
 
 ```html
-````
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Estilos Locais / Internos</title>
+
+<style>
+    body {
+        background-color: aquamarine;
+        font-family: 'Courier New', Courier, monospace;
+        text-align: justify;        
+    }
+
+    h1 {
+        color: blueviolet
+    }
+
+    h2 {
+        color: brown
+    }
+
+    
+</style>
+</head>
+<body>
+    <h1>Capítulo 1</h1>
+    <h2>Capítulo 1.1</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab totam accusantium libero est dolorum porro velit ipsa modi, eveniet ea aspernatur, accusamus nihil dicta nobis. Similique perferendis unde tempora porro!</p>
+</body>
+</head>
+</html>
+```
+
+![image](https://user-images.githubusercontent.com/108991648/224590424-a77e59a5-9747-4e8a-a24a-68caa92ba769.png)
+
+**Style.css - Estilo Externo**
+
+ - HTML
+
+```html
+<title>Estilos  / Externos</title>
+    <link rel="stylesheet" href="style.css">
+    
+```
+- CSS
+
+```css
+@charset "UTF-8";
+
+body {
+    background-color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+}v
+
+h1 {
+    color: blueviolet
+}
+
+h2 {
+    color: brown
+}
+```
+
 _______________
 
 ## Desafio d001

@@ -95,6 +95,12 @@ Atividades e Resultados: [clique aqui](https://github.com/PamelaRondina/html_css
 
 - [x] Elemento Vídeo
 
+### [Aula 013, 014 e 015](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#aula-013)
+
+- [x] CSS in linea
+- [x] CSS no HTML - Estilo Interno
+- [x] Style.css - Estilo Externo
+
 _______________________________
 
 
@@ -155,4 +161,9 @@ _______________________________
 
 ### [Desafio d009](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#desafio-d009)
 
-- [x]
+- [x] Página principal - 4 thumbs
+- [x] 4 páginas com link para acesso ao vídeo e retorno a página principal
+
+
+![image](https://user-images.githubusercontent.com/108991648/224494811-09319c5c-ec29-4261-9336-b8834a634ed5.png)
+
