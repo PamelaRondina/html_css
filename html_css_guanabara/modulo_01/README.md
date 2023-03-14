@@ -1,10 +1,7 @@
 # html_css
 
 
-- [x] Exercícios ([001 até 011](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#aula-001))
-- [x] Exercícios ()
-<br>
-
+- [x] Exercícios ([001 até 011](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#aula-001))<br>
 - [x] Desafios ([d001 até d009](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_01#desafio-d001))
 <br>
 
