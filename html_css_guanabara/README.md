@@ -206,6 +206,9 @@ Atividades e Resultados: [clique aqui](https://github.com/PamelaRondina/html_css
 
 ## Aula 18
 
+- [x] Google Fontes ([Step by Step](https://github.com/PamelaRondina/menu_digital#editando-as-fontes))
+- [x] Fontes Externas ([Step by Step](LINK*********)
+
 SÒ O TEXTO
 
 

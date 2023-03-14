@@ -119,14 +119,147 @@ p {
 - [x] Font CSS - Estilo Interno
 
 ```html
-<style>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fontes em CSS</title>
+
+    <style>
         body {
             font-family:Arial, Helvetica, sans-serif;
         }
     </style>
+</head>
+<body>
+    <h1>Trabalhando com fontes</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+    <h2>Subtítulo do exercício</h2>
+</body>
+</html>
 ```
 
+<hr>
 
+# História das Fontes
+
+![image](https://user-images.githubusercontent.com/108991648/224875711-0aaf7fe8-4591-4bd4-b7a7-ed71c5fc40cf.png)
+
+![image](https://user-images.githubusercontent.com/108991648/224873716-50519e14-999c-49ca-9179-908bfa6ecacb.png)
+
+![image](https://user-images.githubusercontent.com/108991648/224873921-63625dc0-7251-4c40-81b5-b33aeb2f1168.png)
+
+![image](https://user-images.githubusercontent.com/108991648/224874771-32b4670b-689f-482d-90a6-db08ad6a6512.png)
+
+![image](https://user-images.githubusercontent.com/108991648/224875059-243da244-17f3-446c-be62-d9fb4fa1a688.png)
+
+
+## Aula 18
+
+- [x] Google Fontes ([Step by Step](https://github.com/PamelaRondina/menu_digital#editando-as-fontes))
+- [x] Fontes Externas ([Step by Step](LINK*********)
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Fontes</title>
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+        
+        h1 {
+            font-family: 'Satisfy', cursive;
+        }
+    
+</style>
+    
+</head>
+<body>
+    <h1>Testando Fontes Google</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium tempora harum cupiditate, natus, magni numquam provident deleniti error corporis aliquam fugiat iure maxime id, eos itaque labore laborum exercitationem nemo.</p>
+
+</body>
+</html>
+```
+![image](https://user-images.githubusercontent.com/108991648/225021664-ef59fc08-073b-4b29-890f-9f3e2eed53c4.png)
+
+--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->
+
+### Fonte Externa
+
+- [x] Escolher uma fonte e baixar do site [DaFont](https://www.dafont.com/pt/bachelorette.font)
+
+Tipos | Formatos 
+-|-
+opentype | otf
+truetype | otf
+embedded-opentype | 
+trutype-aat | Apple Advanced Typography
+ .| svf
+
+ Em CSS adicionar:
+
+```css
+@font-face {
+    font-family: 'CrieUmNome';
+    src: url('fonts/Bachelorette_PERSONAL_USE_ONLY.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+body {
+    font-family: 'CrieUmNome', Times, serif;
+    font-size: 3em;
+    font-weight: normal;
+}
+```
+
+**Código HTML**
+
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fontes Externas</title>
+    <style>
+        @font-face {
+    font-family: 'CrieUmNome';
+    src: url('fonts/Bachelorette_PERSONAL_USE_ONLY.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'CrieUmNome', Times, serif;
+    font-size: 3em;
+    font-weight: normal;
+}
+```
+    </style>
+</head>
+<body>
+    <h1>Teste Fonte</h1>
+    
+</body>
+</html>
+```
+
+![image](https://user-images.githubusercontent.com/108991648/225100490-320be852-4b61-48c3-96d9-e64760b13b3f.png)
+
+
+<hr>
+
+## Aula 19
 _______________
 
 ## Desafio d010
