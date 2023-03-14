@@ -5,17 +5,128 @@
 - [x] Desafios ([d010 até d***](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_02#desafio-d010))
 <br>
 
-- [x] [Comandos em Html](https://github.com/PamelaRondina/step-by-step/tree/main/html)
+Comandos em HTML: [clique Aqui](https://github.com/PamelaRondina/step-by-step/tree/main/html)<br>
+Comandos em CSS: [clique Aqui](https://github.com/PamelaRondina/step-by-step/tree/main/css)
 
-## Aula 016
+
+
+### [Aula 016](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara#aula-016) 
+
+
+**Cores**
 
 - [x] Cores In linea
 - [x] Cores Estilo Interno
 - [x] Cores Gradiente
 
+**Cores Inlinea**
+
+```html
+<body>
+    <h1>Exemplos de Cores</h1>
+    <h2>Cores</h2>
+    <p>Representação Hexadecimais - 0 1 2 3 4 5 6 7 8 9 A B C D E F</p>    
+    &lt;style="background-color: #0000ff; color: #ffffff;""&gt;
+    <p style="background-color: #0000ff; color: #ffffff;">Teste</p>
+
+    <h2>rgb | rgba</h2>
+
+    <h3><strong>rbg (Red, Green, Blue)</strong></h3>    
+    &lt;style="background-color: rgb(0, 0, 255); color: rgb(255, 255, 255)"&gt;
+    <p style="background-color: rgb(0, 0, 255); color: rgb(255, 255, 255)">Teste</p>
+    
+    <h3><strong>rbga (Red, Green, Bue, Transparência )</strong></h3>    
+    &lt;style="background-color: rgba(27, 78, 33, 0.205);"&gt;
+    <p style="background-color: rgba(27, 78, 33, 0.205); color: #047000">Teste</p>
+
+    <h2>hsl</h2>
+
+    <h3><strong>hsl (Hue, Sturation, Luminosity)</strong></h3>    
+    &lt;style="background-color: hsl(240, 100%, 50%); color: hsl(0, 0%, 100%)""&gt;
+    <p style="background-color: hsl(240, 100%, 50%); color: hsl(0, 0%, 100%)">Teste</p>
+    
+</body>
+```
+
+![image](https://user-images.githubusercontent.com/108991648/224811690-76dcbeb5-77b7-4bc2-9040-5818bda3116f.png)
+
+__________
+
+**Cores em CSS - Estilo interno**
+
+```html
+    <title>Cores em CSS - Estilo Interno</title>
+    <style>
+        body {
+            background-image: linear-gradient(to right, #5cc8ff, #125e8a, #dbabbe, #a8ba9a, #246a73);
+        }
+    </style>
+
+</head>
+```
+
+![image](https://user-images.githubusercontent.com/108991648/224811975-563f1cc0-e3ad-4117-b570-d0abd9caadf0.png)
+
+**Cores em CSS - Estilo externo**
+
+- link CSS no HTML
+- Style.CSS
+
+```css
+@charset "UTF-8";
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body  {
+    margin: auto;
+    background-image: linear-gradient(to right,  #FFD8B1, #FDB1A7, #e5c3a1,#67BAB7);
+}
+
+main {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgb(135, 96, 80);
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1 {
+    color: #67BaB7;
+    text-align: center;
+    text-shadow: 1px 1px 2px rgba(92, 65, 54, 0.705);
+}
+
+h2 {
+    color: #876050;
+   
+}
+p {
+    text-align: justify;
+}
+```
+
+![image](https://user-images.githubusercontent.com/108991648/224812318-536e85a5-c8b6-4062-9cd9-86e803fc74e0.png)
+
+![image](https://user-images.githubusercontent.com/108991648/224800188-d9c28389-0ab9-46e9-89b2-682c1d140acf.png)
+
+<hr>
+
 ## Aula 17
 
-- [x] Fonte - Estilo CSS Interno
+- [x] Font CSS - Estilo Interno
+
+```html
+<style>
+        body {
+            font-family:Arial, Helvetica, sans-serif;
+        }
+    </style>
+```
+
+
 _______________
 
 ## Desafio d010
