@@ -209,6 +209,14 @@ Atividades e Resultados: [clique aqui](https://github.com/PamelaRondina/html_css
 - [x] Google Fontes ([Step by Step](https://github.com/PamelaRondina/menu_digital#editando-as-fontes))
 - [x] Fontes Externas ([Step by Step](LINK*********)
 
+## Aula 18 - B
+
+- [x] Alinhamento
+
+## Aula 19
+
+- [x] id e class
+
 SÒ O TEXTO
 
 

@@ -117,7 +117,9 @@ p {
 ## Aula 17
 
 - [x] Font CSS - Estilo Interno
+- [x] Alinhamentos
 
+**Font CSS - Estilo Interno**
 ```html
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -244,7 +246,7 @@ body {
     font-size: 3em;
     font-weight: normal;
 }
-```
+
     </style>
 </head>
 <body>
@@ -256,10 +258,107 @@ body {
 
 ![image](https://user-images.githubusercontent.com/108991648/225100490-320be852-4b61-48c3-96d9-e64760b13b3f.png)
 
+## Aula 18 - B
+
+- Alinhamentos
+```css
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alinhamentos</title>
+    <style>
+        h1 {
+            text-align: center;
+        }
+     
+        h2 {
+            text-align: right;
+        }
+
+        p {
+            text-align: justify;
+            text-indent: 30px;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Tipos de Alinhamento</h1>
+    <h2>Subtítulo</h2>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. A quisquam cupiditate quod tempore sed nostrum, laboriosam voluptate. Modi, in. Nesciunt animi labore modi perferendis? Consectetur odit quisquam est magni nulla?</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, sequi aperiam. Asperiores cum impedit earum. Doloribus ad tenetur sed ratione nihil sequi perferendis hic voluptatem fugiat, debitis officia labore cum.</p>   
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium nobis iure doloribus, similique obcaecati libero alias vel veniam ducimus est veritatis eos reiciendis non vero? Dolore, harum aspernatur. Ducimus, perferendis.</p>
+    
+</body>
+</html>
+```
+![image](https://user-images.githubusercontent.com/108991648/225108914-e6acd04b-2398-4548-b0c3-96324b4e78ff.png)
+
 
 <hr>
 
 ## Aula 19
+
+- [x] id e class
+
+**HTML**
+
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="style.css">
+    <title>Seletores</title>
+</head>
+<body>
+    <h1 id="principal">Criando Sites com HTML e CSS</h1>
+    <h1>Aprendendo HTML</h1>
+    <h2>HTML básico</h2>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nemo vel officia repellendus asperiores officiis sit ducimus veniam? Amet, repudiandae quae sapiente cum quisquam voluptatibus excepturi temporibus voluptatem dolores ut natus?</p>
+    <h2>HTML Intermediário</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque nostrum dolorem dolor facilis earum dolores voluptate modi totam odit delectus fugiat sit veritatis ullam, quidem libero atque excepturi harum at.</p>
+    
+</body>
+</html>
+```
+
+**CSS**
+```css
+@charset "UTF-8";
+
+body {
+  background-color: rgb(175, 228, 170);  
+}
+
+h1#principal {
+text-align: center;
+background-color: rgb(7, 105, 23);
+color: rgb(172, 180, 180);
+
+}
+
+h1 {
+    color: rgb(22, 85, 20);
+}
+
+h2 {
+    color:rgb(18, 131, 37)
+}
+
+p {
+    text-indent: 30px;
+}
+```
+
+![image](https://user-images.githubusercontent.com/108991648/225137646-561300f9-24e7-469b-b351-6943f0e1dd74.png)
+
 _______________
 
 ## Desafio d010
