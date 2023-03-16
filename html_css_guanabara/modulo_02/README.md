@@ -304,7 +304,7 @@ body {
 
 - [x] id e class
 
-**HTML**
+**HTML - id**
 
 ```html
 <!DOCTYPE html>
@@ -329,7 +329,7 @@ body {
 </html>
 ```
 
-**CSS**
+**CSS - id**
 ```css
 @charset "UTF-8";
 
@@ -359,7 +359,208 @@ p {
 
 ![image](https://user-images.githubusercontent.com/108991648/225137646-561300f9-24e7-469b-b351-6943f0e1dd74.png)
 
+--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->
+
+**HTML - Class**
+
+```html
+ <h1 id="principal">Criando Sites com HTML e CSS</h1>
+    <h1>Aprendendo HTML</h1>
+    <h2 class="basico">HTML básico</h2>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nemo vel officia repellendus asperiores officiis sit ducimus veniam?</p>
+    <h2  class="intermediario">HTML Intermediário</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+    <h2 class="avancado">HTML avançado</h2>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
+    </p>
+```
+
+**CSS - class**
+
+```css
+.basico {
+    color:rgb(7, 105, 23)
+}
+
+.intermediario {
+    color:rgb(103, 112, 17);
+    font-weight: bold;
+}
+
+.avancado {
+    color:rgb(105, 7, 7)
+}
+```
+
+![image](https://user-images.githubusercontent.com/108991648/225315712-343402f6-527d-443d-a349-a6ef32edb9a6.png)
+
 _______________
+
+## Aula 20
+
+- [x] hover
+- [x] pseudo-classe
+- [x] pseudo-element
+
+**Hover**
+
+```html
+    <style>
+        div {
+            display: inline-block;
+            background-color: lightgray;
+            border: 1px solid black;
+            text-align: center;
+            height: 200px;
+            width: 200px; 
+                       
+        }
+
+        div:hover {
+            background-color: rgba(255, 255, 0, 0.253);
+        }
+    </style>
+
+</head>
+<body>
+    <div id="d1">01</div>
+    <div id="d2">02</div>
+    <div id="d3">03</div>
+    
+</body>
+</html>
+```
+
+![image](https://user-images.githubusercontent.com/108991648/225321762-f7f79f7d-bd81-46e7-b9ce-1b20157057ed.png)
+
+--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->
+
+**pseudo-classe**
+
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hover</title>
+
+    <style>
+        div > p {
+            display: none;
+        }
+
+        div:hover > p {
+            display: block;
+            color: white;
+            background-color: red;
+            width: 300px;
+        }
+
+        div:hover {
+            color:rgb(255, 72, 0)
+        }
+
+    </style>
+
+</head>
+<body>
+    <h1>Exemplo de hover</h1>
+    <p>Passe o mouse sobre o texto abaixo</p>
+<div>
+    Passe o mouse aqui...
+    <p>Texto escondido...</p>
+</div>
+    <p>Fim do exemplo</p>
+    
+</body>
+</html>
+```
+
+![image](https://user-images.githubusercontent.com/108991648/225325339-36b01c1d-1d9c-4ce3-9954-7c91b4a15da4.png)
+
+--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->
+
+**pseudo-element**
+
+```html
+  <style>
+        .especial::after {
+            content: '✰';
+        }
+
+        .especial::before {
+            content: '✰';
+        }
+
+        a {
+            color: red;
+            text-decoration: none;
+        }
+
+    </style>
+
+</head>
+    <h1>Personalizando Links</h1>
+    <ul>
+        <li><a href="https://www.linkedin.com/in/pamelarondina/" target="_blank" class="especial">LinkedIn</a></li>
+    </ul>
+<body>
+```
+
+![image](https://user-images.githubusercontent.com/108991648/225347849-13ff7a67-50d8-49be-9983-1908ca95b0de.png)
+
+<hr>
+
+## Aula 21
+
+- [x] Padding
+- [x] Border
+
+```html
+
+    <style>
+        h1 {
+            background-color: lightgray;
+            height: 150px;
+            width: 150px;
+            font-size: 12px;
+            text-align: center;
+            border-width: 10px;
+            border-style: solid;
+            border-color: blueviolet;
+
+            padding-top: 10px;
+            padding-right: 10px;
+            padding-bottom: 10px;
+            padding-left: 10px;
+        }
+
+        a {
+            border-width: 5px;
+            border-style: dotted;
+            border-color: brown;
+
+            padding-top: 10px;
+            padding-right: 10px;
+            padding-bottom: 10px;
+            padding-left: 10px;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Exemplo de caixa box-level</h1>
+    <br>
+    <a href="#">Link</a>
+</body>
+</html>
+```
+
+![image](https://user-images.githubusercontent.com/108991648/225394456-a77e58d4-2f53-453b-9288-f47f3f477351.png)
+
+
 
 ## Desafio d010
 

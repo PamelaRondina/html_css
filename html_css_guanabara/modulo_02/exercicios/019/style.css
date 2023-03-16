@@ -2,6 +2,7 @@
 
 body {
   background-color: rgb(175, 228, 170);  
+  font-size: 10px;
 }
 
 h1#principal {
@@ -15,8 +16,17 @@ h1 {
     color: rgb(22, 85, 20);
 }
 
-h2 {
-    color:rgb(18, 131, 37)
+.basico {
+    color:rgb(7, 105, 23)
+}
+
+.intermediario {
+    color:rgb(103, 112, 17);
+    font-weight: bold;
+}
+
+.avancado {
+    color:rgb(105, 7, 7)
 }
 
 p {

@@ -217,6 +217,18 @@ Atividades e Resultados: [clique aqui](https://github.com/PamelaRondina/html_css
 
 - [x] id e class
 
+## Aula 20
+
+- [x] hover
+- [x] pseudo-classe
+- [x] pseudo-element
+
+## Aula 21
+
+- [x] Padding
+- [x] Border
+
+
 SÒ O TEXTO
 
 
