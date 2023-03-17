@@ -517,6 +517,7 @@ _______________
 
 - [x] Padding
 - [x] Border
+- [x] Grouping Tags
 
 ```html
 
@@ -559,6 +560,108 @@ _______________
 ```
 
 ![image](https://user-images.githubusercontent.com/108991648/225394456-a77e58d4-2f53-453b-9288-f47f3f477351.png)
+
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grouping Tags</title>
+
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: dimgray;
+            margin: 0px;   
+        }
+
+        header {            
+            background-color: white;
+            padding: 10px;
+            margin: 10px;   
+        }
+
+        nav {
+            background-color: rgb(102, 102, 102);
+            padding: 3px;
+        }
+
+        nav > a {
+            text-decoration: none;
+            color: white;
+            font-weight: bold;
+            margin-right: 30px;
+        }
+
+        nav > a:hover {
+            color:brown;  
+        }
+
+        main {
+            background-color: white;
+            padding: 10px;
+            margin: 10px;
+        }
+
+        article {
+            background-color: lightgray;     
+            padding: 5px;   
+        }
+
+        article > aside {
+            background-color: lightpink;
+        }
+
+        footer    {
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 1px;
+            margin: 0px;
+        }
+        
+    </style>
+</head>
+<body>
+    <header>         
+        <h1>Meu Site</h1>      
+        <nav>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+        </nav>
+    </header>
+
+    <main>   
+        <section id="assuntos"></section> 
+        <section id="noticias">
+            <article>                
+            </article>
+            <article>
+            <h2>Aprendendo a Construir Sites</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit quod nisi doloribus eaque, dicta sint nesciunt nemo at officia hic eveniet iure numquam deserunt similique earum. Quidem aut necessitatibus veritatis!</p>
+                <aside>
+                    <p>Artigo escrito por Pamela Rondina</p>
+                </aside>                            
+            </article>
+        </section>   
+    </main>
+
+    <footer>
+        <p>Rodapé</p>
+    </footer>
+
+    
+</body>
+</html>
+```
+
+![image](https://user-images.githubusercontent.com/108991648/225691396-7e02223e-dca8-44ef-9980-1f358bad8a1f.png)
+
 
 
 

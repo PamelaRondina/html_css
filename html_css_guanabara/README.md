@@ -227,6 +227,7 @@ Atividades e Resultados: [clique aqui](https://github.com/PamelaRondina/html_css
 
 - [x] Padding
 - [x] Border
+- [x] Grouping Tags
 
 
 SÒ O TEXTO
