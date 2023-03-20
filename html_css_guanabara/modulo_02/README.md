@@ -516,8 +516,10 @@ _______________
 ## Aula 21
 
 - [x] Padding
-- [x] Border
 - [x] Grouping Tags
+- [x] Bordas
+    - Círculos
+- [x] Sombras
 
 ```html
 
@@ -661,6 +663,18 @@ _______________
 ```
 
 ![image](https://user-images.githubusercontent.com/108991648/225691396-7e02223e-dca8-44ef-9980-1f358bad8a1f.png)
+
+**Círculo**
+
+```css
+   div#bola{
+            height: 100px;
+            width: 100px;
+            background-color: white;
+            margin: 10px;;
+            border-radius: 50px;
+        }
+```
 
 
 

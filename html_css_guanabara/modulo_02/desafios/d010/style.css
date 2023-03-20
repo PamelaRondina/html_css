@@ -1,0 +1,106 @@
+@font-face {
+    font-family: 'idroid';
+    src: url('fonts/idroid.otf') format('opentype'); 
+    font-weight: normal;
+    font-style: normal;    
+}
+
+@font-face {
+    font-family: 'h1';
+    src: url('fonts/Alégre\ Sans.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;    
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600&display=swap');
+
+* {
+    margin: 0;
+}
+
+
+body { 
+    background-color: #84E1AD;
+}
+
+header {
+    background-image: linear-gradient(to top, #0A341E, #0E5C2F,#268751, #31AF69, #3CD983);
+    height: 150px;
+    color: #E0FFEE;           
+}
+
+.center{
+    text-align: center;
+}
+
+h1 {
+    font-family: 'h1', sans-serif;
+    text-transform: uppercase;
+    font-weight: lighter;
+    text-shadow: 2px 2px rgba(0, 0, 0, 0.623);
+    padding: 5px;
+}
+
+header > p {
+    font-family: 'Raleway', sans-serif;
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.637);
+    padding: 20px;
+
+}
+
+nav {
+    
+}
+a {
+    font-family: 'Raleway', sans-serif;
+    font-size: 12px;
+    padding: 15px;
+    color: #E0FFEE;
+    text-decoration: none;
+    font-weight: bold;   
+}
+
+a:hover {
+    background-color: #2e9c64;
+    border-radius: 5px;
+    
+}
+
+.main {
+   background-color: #FFFFFF;
+   margin: 0px 250px;  
+   box-shadow: 1px 1px 50px 3px rgba(0, 0, 0, 0.438); 
+}
+
+h2 {
+    font-family: 'idroid';
+    color: #0A341E;
+    padding: 15px;
+    font-weight: lighter;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    text-indent: 40px;
+    padding: 10px;
+}
+
+h3 {
+    font-family: 'idroid';
+    color: #0E5C2F;
+    background-image: linear-gradient(to right,    #99fac5, #ffffff);
+    margin: 15px;
+    font-weight: lighter; 
+}
+
+.class {
+    padding: 100%;
+}
+
+footer {
+    font-family: ;
+    background-color: #1A5C38;
+    margin: 0px 80px;  
+}

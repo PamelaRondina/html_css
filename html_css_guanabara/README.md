@@ -226,8 +226,10 @@ Atividades e Resultados: [clique aqui](https://github.com/PamelaRondina/html_css
 ## Aula 21
 
 - [x] Padding
-- [x] Border
 - [x] Grouping Tags
+- [x] Bordas
+    - Círculos
+- [x] Sombras
 
 
 SÒ O TEXTO
