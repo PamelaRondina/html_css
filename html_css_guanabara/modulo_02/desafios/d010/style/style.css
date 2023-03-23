@@ -22,7 +22,7 @@
 
 
 body { 
-    background-color: #84E1AD;
+    background-color: #E7E5C2/
 }
 
 header {
@@ -33,9 +33,10 @@ header {
 
 .center{
     text-align: center;
+    
 }
 
-h1 {
+#h1Center {
     font-family: 'h1', sans-serif;
     text-transform: uppercase;
     font-weight: lighter;
@@ -47,13 +48,9 @@ header > p {
     font-family: 'Raleway', sans-serif;
     text-shadow: 1px 1px rgba(0, 0, 0, 0.637);
     padding: 20px;
-
 }
 
-nav {
-    
-}
-a {
+nav > ul > a {
     font-family: 'Raleway', sans-serif;
     font-size: 12px;
     padding: 15px;
@@ -62,29 +59,36 @@ a {
     font-weight: bold;   
 }
 
-a:hover {
+nav > ul> a:hover {
     background-color: #2e9c64;
     border-radius: 5px;
-    
+   margin: 10px; 
 }
 
 .main {
    background-color: #FFFFFF;
-   margin: 0px 250px;  
-   box-shadow: 1px 1px 50px 3px rgba(0, 0, 0, 0.438); 
+   margin: 0px 250px;
+   max-width: 800px;  
+   box-shadow: 1px 1px 50px 3px rgba(0, 0, 0, 0.438);
+   border-bottom-right-radius: 20px;
+   border-bottom-left-radius: 20px;
 }
 
 h2 {
     font-family: 'idroid';
     color: #0A341E;
-    padding: 15px;
+    padding: 15px 10px 5px 15px;
     font-weight: lighter;
 }
 
-p {
+.paragrafo {
     font-family: 'Raleway', sans-serif;
     text-indent: 40px;
-    padding: 10px;
+    padding: 10px 20px;
+    font-size: 13px;
+    text-align: justify;
+    line-height: 20px;
+    font-weight: lighter;
 }
 
 h3 {
@@ -95,12 +99,69 @@ h3 {
     font-weight: lighter; 
 }
 
-.class {
-    padding: 100%;
+.green {
+    color:#288f59;
+    font-weight: bold;     
 }
 
+img {
+    width: 95%;
+    margin: auto;
+    display: block;
+    
+}
+
+#imagemMenor {
+    max-width: 400px;
+}
+
+iframe {
+    width: 95%;
+    margin: auto;
+    display: block;
+}
+
+.modal {
+    width: 95%;
+    margin: auto;
+    display: block;
+    background-color: #a8ebc68e;
+    font-family: 'Raleway', sans-serif;
+    border-radius: 20px;   
+    
+}
+
+h4 {
+    background-color: #288f59;
+    color: aliceblue;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    font-size: 14px;
+    padding: 10px;    
+}
+
+.tabela {    
+    width: 100%;
+    display: flex;
+    
+    font-size: 13px;
+}
+
+
+
 footer {
-    font-family: ;
+    font-family: 'Raleway', sans-serif;
     background-color: #1A5C38;
-    margin: 0px 80px;  
+    margin-top: 15px;
+    color: aliceblue;
+    padding: 10px;
+    font-size: 11px;
+    text-align: center;
+    font-style: italic;
+
+}
+
+.bold {
+    font-weight: bolder;
+    font-style: normal;
 }
