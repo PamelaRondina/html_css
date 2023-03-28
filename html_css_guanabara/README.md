@@ -232,15 +232,39 @@ Atividades e Resultados: [clique aqui](https://github.com/PamelaRondina/html_css
 - [x] Sombras
 
 
-SÒ O TEXTO
-
-
 <hr>
 
 ## Desafios
 
 ### [Desafio d010](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_02#desafio-d010)
 
-- [x] Desafio ****************
+- [x] Desafio Site.
 
-![image](https://user-images.githubusercontent.com/108991648/222445916-cb7743bb-2244-49f4-a256-ba8bdc888861.png)
+IMAGEM DESAFIO 10
+LINK DESAFIO 10
+
+__________
+
+
+## Módulo 03 - HTML5 e CSS3
+
+Atividades e Resultados: [clique aqui](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_03)
+
+
+## Exercícios
+
+## Aula 022
+
+- [x] 
+
+## Aula 023
+
+- [x] 
+
+<hr>
+
+## Desafios
+
+### [Desafio d011](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara/modulo_03#desafio-d011)
+
+- [x] 
