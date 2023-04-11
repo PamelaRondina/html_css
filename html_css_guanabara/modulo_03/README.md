@@ -13,10 +13,11 @@ Comandos em CSS: [clique Aqui](https://github.com/PamelaRondina/step-by-step/tre
 ### [Aula 022](https://github.com/PamelaRondina/html_css/tree/main/html_css_guanabara#aula-022) 
 
 
-**Cores**
-
 - [x] background-image: url('link');
 - [x] background-repeat: url('link');
+- [x] background-position: ---;
+- [x] background-size;
+- [x] background-attachment e shorthand;
 
 **fundo001 -  background-image: url('link');**
 
@@ -27,9 +28,8 @@ Comandos em CSS: [clique Aqui](https://github.com/PamelaRondina/step-by-step/tre
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Teste de Imagem de Fundo</title>
-</head>
-<body>
+    <title>Teste de Imagem de Fundo - 001</title>
+
     <style>
 
         body {
@@ -56,6 +56,9 @@ Comandos em CSS: [clique Aqui](https://github.com/PamelaRondina/step-by-step/tre
         }
 
     </style>
+</head>
+<body>
+    
     
 </body>
 <div class="quadrado" id="q1">
@@ -75,6 +78,8 @@ Comandos em CSS: [clique Aqui](https://github.com/PamelaRondina/step-by-step/tre
 
 ![image](https://user-images.githubusercontent.com/108991648/228563543-f57d81f4-2743-4b8a-89f5-b07e24b94860.png)
 
+--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->
+
 **fundo002. background-image: url(link externo)**
 
 ```html
@@ -85,8 +90,7 @@ Comandos em CSS: [clique Aqui](https://github.com/PamelaRondina/step-by-step/tre
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Teste de Imagem de Fundo - 002</title>
-</head>
-<body>
+
     <style>
         body {
             background-image: url('https://avatars.githubusercontent.com/u/8683378?v=4');
@@ -94,20 +98,24 @@ Comandos em CSS: [clique Aqui](https://github.com/PamelaRondina/step-by-step/tre
 
 
     </style>
+</head>
+<body>
+    
     
 </body>
-
 </div>
-
 </html>
-
 ```
 
 ![image](https://user-images.githubusercontent.com/108991648/228575637-f4f3396c-becd-4693-83ce-3ddd3a202d40.png)
 
+--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->
+
+
 **background-position: ---;**
 
 ```html
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -115,36 +123,38 @@ Comandos em CSS: [clique Aqui](https://github.com/PamelaRondina/step-by-step/tre
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Posição dos fundos</title>
+
+    <style>
+        div.bloco {
+         background-image: url('images/wallpaper003.jpg');
+         height: 200px;
+         border: 1px solid black;
+         border-radius: 20px;
+         margin: 10px;        
+        }
+ 
+        div#q1 {
+         background-position: left top;
+         
+        }
+ 
+        div#q2 {
+         background-position: left center;        
+        }
+ 
+        div#q3 {
+         background-position: right bottom;        
+        }
+ 
+        div#q4 {
+         background-position: center center;
+        }
+ 
+ 
+     </style>  
 </head>
 <body>
-    <style>
-       div.bloco {
-        background-image: url('images/wallpaper003.jpg');
-        height: 200px;
-        border: 1px solid black;
-        border-radius: 20px;
-        margin: 10px;        
-       }
-
-       div#q1 {
-        background-position: left top;
-        
-       }
-
-       div#q2 {
-        background-position: left center;        
-       }
-
-       div#q3 {
-        background-position: right bottom;        
-       }
-
-       div#q4 {
-        background-position: center center;
-       }
-
-
-    </style>  
+    
     
     <div class="bloco" id="q1">
         
@@ -167,6 +177,41 @@ Comandos em CSS: [clique Aqui](https://github.com/PamelaRondina/step-by-step/tre
 ```
 
 ![image](https://user-images.githubusercontent.com/108991648/228623618-39e441bd-277f-417d-8ffb-19672c1de5d2.png)
+
+--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->
+
+
+**background-position: center center;**
+
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Posição</title>
+</head>
+<body>
+    <style>
+        body {
+            height: 50vh;
+            border: 1px dashed black;
+            background-image: url('https://avatars.githubusercontent.com/u/8683378?v=4');
+            background-size: 100px;
+            background-repeat: no-repeat;
+            background-position: center center; 
+        }           
+    </style>
+       
+</body>
+
+</html>
+```
+
+![image](https://user-images.githubusercontent.com/108991648/229554814-40066070-c010-4de3-a67d-84a2272d82fe.png)
+
+--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->--->
 
 
 

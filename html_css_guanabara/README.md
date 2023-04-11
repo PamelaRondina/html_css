@@ -255,7 +255,10 @@ Atividades e Resultados: [clique aqui](https://github.com/PamelaRondina/html_css
 
 ## Aula 022
 
-- [x] 
+- [x] background-image: url('link');
+- [x] background-repeat: url('link');
+- [x] background-position: ---;
+- [x] background-position: center center;
 
 ## Aula 023
 
